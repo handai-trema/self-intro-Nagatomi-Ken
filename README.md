@@ -5,3 +5,10 @@
 趣味はサッカー観戦です。中高サッカーをやっていてJリーグを中心にサッカーをよく見ます。その他にもゲームをするのが好きでしたが研究が忙しくなり最近はあまりできていません。
 
 この授業を通してSDNの基礎を学び理解を深めていけたらと思っています。よろしくお願いします。
+
+======
+
+*[スイッチ切断のイベント](https://gibhub.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)
+*[HelloTrema](https://gibhub.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)
+
+
