@@ -8,7 +8,8 @@
 
 ======
 
-*[スイッチ切断のイベント](https://gibhub.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)
-*[HelloTrema](https://gibhub.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)
+*[スイッチ切断のイベント](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-2.md)
+
+*[HelloTrema](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)
 
 
