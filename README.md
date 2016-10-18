@@ -12,4 +12,7 @@
 
 *[HelloTrema](https://github.com/handai-trema/hello-trema-Nagatomi-Ken/blob/develop/Report1-3.md)
 
+*[Cbenchのボトルネック調査](https://github.com/handai-trema/cbench-Nagatomi-Ken/blob/master/report2-1.md)
+
+*[複数スイッチ対応版 ラーニングスイッチ](https://github.com/handai-trema/learning-switch-Nagatomi-Ken/blob/master/report2-2.md)
 
